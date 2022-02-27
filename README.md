@@ -34,7 +34,7 @@ You can help me by following my [Telegram](https://t.me/Bad_Decision) chanel.
 /removeFile <file name> - Remove a file
 /download <file name> - Download file
 /webcamvideo <duration in numbers 1000 approximately 39 seconds> - Record webcam video
-/audio <duration in numbers 1000 approximately 23 seconds> - Recording audio from the victim's PC
+/audio <duration in numbers 1000 approximately 23 seconds> - Recording audio from the pc of victim
 /system <file name with extension> - Will open any file
 /volumeON - Turn on maximum volume
 /volumeOFF - Turn off the sound
@@ -58,7 +58,7 @@ You can help me by following my [Telegram](https://t.me/Bad_Decision) chanel.
 /unblockURLS - Unblocks all blocked sites
 /screamer - Displays a screamer on the screen
 Also, if you send me a voice message, I will open it with the victim.
-You can also send me any file and I will save it on the victim's PC
+You can also send me any file and I will save it on the PC of victim.
 ```
 ## Installation
 ```sh
